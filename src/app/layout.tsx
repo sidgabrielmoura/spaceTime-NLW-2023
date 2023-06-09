@@ -42,7 +42,7 @@ export default function RootLayout({children}: { children: ReactNode }) {
           {/*blur*/}
 
           <div className="absolute right-0 top-1/2 h-[288px] w-[526px] bg-yellow-700
-          opacity-50 -translate-y-1/2 translate-x-1/2 rounded-full blur-full"/>
+          opacity-50 translate-y-1/2 translate-x-1/2 rounded-full blur-full"/>
 
           {/*stripes*/}
 
